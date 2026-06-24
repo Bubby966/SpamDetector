@@ -12,7 +12,3 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
-
-# Model files (optional)
-*.pkl
-*.joblib
